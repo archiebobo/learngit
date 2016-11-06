@@ -9,3 +9,5 @@ change file from linux.
 
 Linux is good.
 YE
+
+We can edit this file on VirtualMashine.
