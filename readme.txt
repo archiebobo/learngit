@@ -11,3 +11,4 @@ Linux is good.
 YE
 
 We can edit this file on VirtualMashine.
+We do this on thinkpad.
